@@ -37,7 +37,7 @@ My responsibilities included ensuring the seamless processing of installment app
 - Performed non-functional requirements analysis to ensure optimal system performance.
 - Upgraded Node.js to version 18 across all repositories, integrating major changes to enhance compatibility and optimize performance.
 
-**_Technologies used:_** DBeaver, Node.js, Jenkins, SonarQube, Metabase, Postman, and Firebase
+**_Technologies used:_** MySQL, RabbitMQ, Node.js, Express, Jenkins, SonarQube, Metabase, Postman, Alibaba Cloud, Firebase, Kafka, Swagger, Redis,  and Elastic Search.
 
 
 <hr>
@@ -51,43 +51,11 @@ My main responsibility during this role was helping Hitachi eBworx client at tha
 
 - Develop Portfolio Module which consist of Payment Details, Deposit Account and Trade Product.
 - Performed host integration with Trade Product modules to consolidate the number of outstanding product and amount of MYR
-- Setup Apache 8 and Oracle 12c as part of the development environment.
-- Troubleshoot SIT issues
+- Deployment Manager for Phase 1.0 to 1.2
+- Integrate new report template module called "Virtual Account" to produce report output on PDF, CSV and TXT format.
 
 **_Technologies used:_** Java 1.6 & Java 1.8, JSP, Oracle, Oracle Weblogic, IBM Websphere
   <br><br>
-  
-
-**Application Engineer** @ [PT Hitachi Ebworx Indonesia](http://www.hitachi-ebworx.com/) _(Nov 2016 - Jul
-2018)_ <br>
-My main responsibility during this role was helping Hitachi eBworx client at that time, BNP Paribas.
-
-[//]: # (I just joined Hitachi eBworx and did various task from migrating old system, bug fixing and develop new modules.)
-
-<b> Notable activities & responsibilities:</b>
-  
-  - Deployment Manager for Phase 1.0
-    - Managing artifact such as WAR and JAR file during deployment merging source code throughout phase 1.0
-    - Ensuring the VSIT server run without issues during the test phase
-    - Troubleshoot SIT and UAT issues related to build version and changelog
-      differences
-
-  - Participated from Phase 1.0 to 1.2 by developing these modules
-    - Developed and tested RTGS Payment module under 3 weeks with other two members.
-    - Integrate new report template module called "Virtual Account" to produce report output on PDF, CSV and TXT format.
-
-
-**_Technologies used:_** Java 1.6 & Java 1.8, JSP, Oracle, Oracle Weblogic, IBM Websphere
-  <br><br>
-
-
-## Workshop
-
-**Attending** <br>
-- Developing and Deploying Applications with Mathlab Seminar as Participant Course _(2016)_
-- How to Make an Interesting Presentation Workshop as Speaker _(2015)_
-- Introduction to Oracle Report Developer Workshop as Audience _(2014)_
-- Developing Mobile Application on Android Course as Participant _(2014)_
 
 [//]: # (## Languages)
 
